@@ -28,6 +28,7 @@ class ViewController: UIViewController {
 				//Bring's sender's opacity back up to fully opaque.
 				sender.alpha = 1.0
 		}
+		
 	}
 	
 	func playSound(toneTitle: String) {
